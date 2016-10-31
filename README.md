@@ -1,7 +1,7 @@
-This script uses the course output scraped with BenDoan/unomaha-course-scraper to
+This script uses the course output scraped with [BenDoan/unomaha-course-scraper](https://github.com/bendoan/unomaha-course-scraper) to
 find the class schedule for each room at UNO (Univeristy of Nebraska, Omaha)
 
-**Note:** This script requires a file named all_courses.json containing the output of BenDoan/unomaha-course-scraper to be in the current directory
+**Note:** This script requires a file named all_courses.json containing the output of [BenDoan/unomaha-course-scraper](https://github.com/bendoan/unomaha-course-scraper) to be in the current directory
 
 ```
 Usage: ./find_room_schedules.py [classroom]
